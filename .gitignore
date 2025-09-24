@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments and local tooling
+.venv/
+venv/
+.env
+.env.*
+.uv/
+
+# Local data/config that should stay private
+profiles.json
+.local/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
